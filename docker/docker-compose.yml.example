@@ -1,4 +1,4 @@
-version: 'X'
+version: 'XYZ'
 services:
   app_A:
     # ...
